@@ -28,16 +28,26 @@ I'm currently learning Python and Machine Learning through practical projects an
   <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
 </p>
 
+
 ### 📂 Featured Project
 
-**Breast Cancer Classification**
+[**Breast Cancer Classification**](https://github.com/parvanehmehraliyan/Breast_Cancer_Classification)
 
 A Machine Learning project comparing three classification algorithms:
+
 - Decision Tree
 - Random Forest
 - Logistic Regression
 
-Using evaluation metrics such as Accuracy, Precision, Recall, and F1 Score.
+**Evaluation Metrics:**
+- Accuracy
+- Precision
+- Recall
+- F1 Score
+- Confusion Matrix
+
+**Technologies:** Python, NumPy, Pandas, Scikit-learn
+
 
 ### 🎯 Future Goals
 - Deep Learning with PyTorch
