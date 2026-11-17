@@ -7,6 +7,7 @@ I'm passionate about Artificial Intelligence, Machine Learning, Computer Vision,
 I'm currently learning Python and Machine Learning through practical projects and hands-on experience.
 
 ### 🚀 Areas of Interest
+
 - Artificial Intelligence
 - Machine Learning
 - Computer Vision
@@ -16,18 +17,11 @@ I'm currently learning Python and Machine Learning through practical projects an
 
 ### 🛠️ Technologies & Tools
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,vscode,github,git" />
-</p>
+\<p align="left">   \<img src="[https://skillicons.dev/icons?i=python,vscode,github,git](https://skillicons.dev/icons?i=python,vscode,github,git)" /> \</p>
 
 ### 📚 Python Libraries
 
-<p align="left">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-</p>
-
+\<p align="left">   \<img src="[https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)" />   \<img src="[https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)" />   \<img src="[https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge\&logo=scikitlearn\&logoColor=white)" /> \</p>
 
 ### 📂 Featured Project
 
@@ -40,6 +34,7 @@ A Machine Learning project comparing three classification algorithms:
 - Logistic Regression
 
 **Evaluation Metrics:**
+
 - Accuracy
 - Precision
 - Recall
@@ -48,8 +43,8 @@ A Machine Learning project comparing three classification algorithms:
 
 **Technologies:** Python, NumPy, Pandas, Scikit-learn
 
-
 ### 🎯 Future Goals
+
 - Deep Learning with PyTorch
 - Advanced Computer Vision
 - Intelligent Robotics
@@ -59,5 +54,3 @@ A Machine Learning project comparing three classification algorithms:
 ### 🌱 My Philosophy
 
 Learning step by step, building real projects, and turning ideas into intelligent solutions.
-
-
