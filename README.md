@@ -1,16 +1,45 @@
-## Hi there 👋
+# Hi, I'm Parvaneh Mehraliyan 👋
 
-<!--
-**parvanehmehraliyan/parvanehmehraliyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring AI & Robotics Engineer
 
-Here are some ideas to get you started:
+I'm passionate about Artificial Intelligence, Machine Learning, Computer Vision, and Robotics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently learning Python and Machine Learning through practical projects and hands-on experience.
+
+### 🚀 Areas of Interest
+- Artificial Intelligence
+- Machine Learning
+- Computer Vision
+- Robotics
+- Autonomous Systems
+- Space Exploration
+
+### 🛠️ Technologies & Tools
+- Python
+- NumPy
+- Pandas
+- Scikit-learn
+- Git & GitHub
+
+### 📂 Featured Project
+
+**Breast Cancer Classification**
+
+A Machine Learning project comparing three classification algorithms:
+- Decision Tree
+- Random Forest
+- Logistic Regression
+
+Using evaluation metrics such as Accuracy, Precision, Recall, and F1 Score.
+
+### 🎯 Future Goals
+- Deep Learning with PyTorch
+- Advanced Computer Vision
+- Intelligent Robotics
+- Autonomous Systems
+- AI for Space Exploration
+
+### 🌱 My Philosophy
+
+Learning step by step, building real projects, and turning ideas into intelligent solutions.
+
