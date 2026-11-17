@@ -15,13 +15,17 @@ I'm currently learning Python and Machine Learning through practical projects an
 - Autonomous Systems
 - Space Exploration
 
+
 ### 🛠️ Technologies & Tools
 
-\<p align="left">   \<img src="[https://skillicons.dev/icons?i=python,vscode,github,git](https://skillicons.dev/icons?i=python,vscode,github,git)" /> \</p>
+![Skills](https://skillicons.dev/icons?i=python,vscode,github,git)
 
 ### 📚 Python Libraries
 
-\<p align="left">   \<img src="[https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)" />   \<img src="[https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)" />   \<img src="[https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge\&logo=scikitlearn\&logoColor=white)" /> \</p>
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+
 
 ### 📂 Featured Project
 
