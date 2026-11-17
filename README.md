@@ -15,11 +15,18 @@ I'm currently learning Python and Machine Learning through practical projects an
 - Space Exploration
 
 ### 🛠️ Technologies & Tools
-- Python
-- NumPy
-- Pandas
-- Scikit-learn
-- Git & GitHub
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,vscode,github,git" />
+</p>
+
+### 📚 Python Libraries
+
+<p align="left">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+</p>
 
 ### 📂 Featured Project
 
