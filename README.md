@@ -65,4 +65,8 @@ Learning step by step, building real projects, and turning ideas into intelligen
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=parvanehmehraliyan&show_icons=true&theme=tokyonight)
 
+### 💻 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=parvanehmehraliyan&layout=compact&theme=tokyonight)
+
 
